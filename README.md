@@ -12,7 +12,7 @@ O projeto foi desenvolvido usando Python 3.9 e as bibliotecas:
 
 
 
-## Como executar o projeto?
+## Executando o projeto:
 
 1. Primeiro, você deve clonar o projeto para seu computador:
 
@@ -37,7 +37,7 @@ O projeto foi desenvolvido usando Python 3.9 e as bibliotecas:
    ```
 
 
-## Dupla :man_technologist::man_technologist:
+## Equipe :man_technologist::man_technologist:
 
 - Leonardo Luiz do Nascimento Dantas Filho [https://github.com/LeoDantas]
 - Rivanildo Silva dos Santos [https://github.com/Rivanildo]
